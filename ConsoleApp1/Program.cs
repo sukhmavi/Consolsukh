@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Add");
+            Console.WriteLine("Made some changes");
+            Console.WriteLine("This is a misake! i wish i didn't do this");
+
         }
     }
 }
